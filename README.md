@@ -1,1 +1,1 @@
-- Hi, I’m Tony Kunda. I like JavaScript!
+Hi, I’m Tony Kunda. I like JavaScript!
